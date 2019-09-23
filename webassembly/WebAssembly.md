@@ -33,4 +33,3 @@ Working Browsers are Chrome, Safari, FireFox, Opera and Microsoft Edge (Beta)
 ### Known Issues
 * Speed of the webassembly emulation is lacking, compared to the native version
 * No support to load PRGs (yet)
-* Doesn't display particularly well in portrait mode on mobile
